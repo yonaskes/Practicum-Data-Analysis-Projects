@@ -1,4 +1,4 @@
-Analysis of user behavior in the food application
+Analysis of user behavior in the food application Project
 
 
 Project description
