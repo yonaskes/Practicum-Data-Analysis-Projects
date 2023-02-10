@@ -10,5 +10,5 @@ The aim of the project is to analyse data of Megaline company and to come to con
 
 Hypotheses of the project
 
-The average revenue from users of Ultimate and Surf calling plan differs.
-The average revenue from users in NY - NJ area is different from that of the users from other regions.
+* The average revenue from users of Ultimate and Surf calling plan differs.
+* The average revenue from users in NY - NJ area is different from that of the users from other regions.
