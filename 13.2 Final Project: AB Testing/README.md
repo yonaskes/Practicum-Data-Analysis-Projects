@@ -6,7 +6,7 @@ You've received an analytical task from an international online store. Your pred
 
 Technical description
 
-Test name: recommender_system_test
+* Test name: recommender_system_test
 Groups: А (control), B (new payment funnel)
 Launch date: 2020-12-07
 The date when they stopped taking up new users: 2020-12-21
