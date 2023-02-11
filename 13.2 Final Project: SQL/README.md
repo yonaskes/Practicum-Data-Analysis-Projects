@@ -1,4 +1,4 @@
-A/B Testing Project - from an international online store
+A/B Testing Project - from an international online store Project
 
 Task
 
